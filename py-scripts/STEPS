@@ -1,0 +1,9 @@
+- Create log file so that every script is resumeable
+- Write python module to get the domains from domainpunch.com and add them to a database
+- Write python modulle to get the deleted domain names and delete them from the database
+
+- Get list of all .com whois servers
+- Write python multi-threaded script to make the request and collect data
+
+- Patch up the emailer and test it
+- Make the website and test it
